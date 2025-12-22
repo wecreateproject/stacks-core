@@ -3,7 +3,7 @@
     <img alt="Stacks" src="https://i.imgur.com/zzwnCnY.png" width="250" />
   </a>
 </p>
-
+----------
 # Stacks Blockchain
 
 Reference implementation of the [Stacks blockchain](https://github.com/stacks-network/stacks) in Rust.
