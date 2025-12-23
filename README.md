@@ -15,7 +15,7 @@ Stacks is a layer-2 blockchain that uses Bitcoin as a base layer for security an
 [![Discord Chat](https://img.shields.io/discord/621759717756370964.svg)](https://stacks.chat)
 
 ## Building
-
+--------------
 ### 1. Download and install Rust
 
 _For building on Windows, follow the rustup installer instructions at https://rustup.rs/._
